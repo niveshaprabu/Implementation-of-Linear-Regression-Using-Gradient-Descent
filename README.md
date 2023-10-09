@@ -122,5 +122,5 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/2e7c7a69-27c7-4c26-a720-def88cc71072)
 
 
-# Result:
+#  Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
