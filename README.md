@@ -91,7 +91,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 # 4.Data Duplicate
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/83b82319-0471-4324-b554-0573b7036001)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/287e5a09-7102-4bc9-83d7-e297ee3d50ed)
+
 
 
 
