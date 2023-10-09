@@ -87,11 +87,11 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 # 3. Checking the null function()
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/ed641354-2422-4647-b39a-b80b2679bf80)
+
 
 
 # 4.Data Duplicate
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/fca81910-1281-46cb-9b46-9f403cfc4b09)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/ed641354-2422-4647-b39a-b80b2679bf80)
 
 
 # 5.Print Data
