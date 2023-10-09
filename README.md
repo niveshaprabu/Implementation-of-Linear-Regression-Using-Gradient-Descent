@@ -111,7 +111,7 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 
 # 9.Confusion matrix
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/3f50da17-b41f-4e50-89f0-2acdd7dc4fbf)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/232b72ff-7af9-4c70-bed0-18a945f6d03f)
 
 
 # 10.Classification Report
