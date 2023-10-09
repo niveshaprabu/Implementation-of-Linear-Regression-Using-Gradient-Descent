@@ -79,47 +79,49 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 # Output:
 # 1.Placement Data
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/5a5fed3c-b085-4e85-a40d-d8326c76a872)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/59c9d1a8-437b-4f3e-99fe-548f569c41dd)
+
 
 
 # 2.Salary Data
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/eeb26ada-b601-4ced-a4f6-ea12991bc32d)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/446c3cfd-3322-480d-bc18-fee18f5c27b6)
 
 
 # 3. Checking the null function()
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/e7d75064-e52f-4a0b-8ada-7c00fba852a0)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/a54cca29-d08b-4780-ae5f-7ec707b2b102)
 
 
 # 4.Data Duplicate
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/ca0c1c2b-ea36-457f-ad13-23e82edaf949)
 
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/a45c6d53-a05e-44dc-976c-ee0969401335)
 
 # 5.Print Data
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/3dcb7ce3-102b-421f-ba42-7a01f291ad33)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/62a0ca13-a52f-46d1-bfd5-7896bef74c88)
 
 
 # 6.Data Status
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/df811764-28ea-4a2a-994e-0a4b9b0581a4)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/961b03cc-b0a4-43f1-b9a5-839d7826b22a)
 
 
 # 7.y_prediction array
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/d4c6ec9c-353f-45ef-bdea-5be759f493af)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/b02fb083-37a1-4035-a58b-c3ad38e4e7ed)
 
 
 # 8.Accuracy value
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/cab21414-bc43-41e5-bafd-82563af9bc63)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/6d7aeafd-d703-4ab6-a749-699c4ee528f2)
 
 
 # 9.Confusion matrix
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/aabb2685-4d86-4b9d-b825-775e4a5dad30)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/2e994d83-9839-4a78-a7d3-70550cc0dfe3)
 
 
 # 10.Classification Report
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/e43c0645-2361-4ae0-a1e5-227556c8a8a8)
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/eefbb4da-ef76-4976-b343-ad0bac606b99)
 
 
 # 11.Prediction of LR
-![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/2e7c7a69-27c7-4c26-a720-def88cc71072)
+
+![image](https://github.com/niveshaprabu/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/122986499/fe1847b7-4005-414b-b574-3d7e7b2fd552)
 
 
 #  Result:
