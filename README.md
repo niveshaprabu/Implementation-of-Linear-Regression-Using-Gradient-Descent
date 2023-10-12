@@ -1,9 +1,10 @@
 # Implementation-of-Linear-Regression-Using-Gradient-Descent
 # AIM:
-To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student. Equipments Required:
+To write a program to implement the the Logistic Regression Model to Predict the Placement Status of Student. 
+# Equipments Required:
 
-Hardware – PCs
-Anaconda – Python 3.7 Installation / Jupyter notebook
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Jupyter notebook
 # Algorithm
 # Steps involved
 1.Data Preparation: The first step is to prepare the data for the model. This involves cleaning the data, handling missing values and outliers, and transforming the data into a suitable format for the model.
